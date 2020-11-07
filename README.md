@@ -105,3 +105,4 @@ I also store my cucumber feature files separately it also helps in reusability a
 Step definitions are storing my actual code.
 An extra re-run class has to be created that will help us to rerun failed scenarios.
 
+"# vending-machine-collinson" 
